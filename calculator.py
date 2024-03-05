@@ -27,7 +27,7 @@ def main():
     result = divide_numbers(a, b)
     
     # Display the result or error message
-    print(f"Result: {result}")
+    print(f"Result: {result}")  
 
 if __name__ == "__main__":
     main()
