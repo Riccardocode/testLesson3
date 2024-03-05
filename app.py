@@ -17,7 +17,7 @@ def divide_numbers(a, b):
         return "Error: Cannot divide by zero."
 
 def main():
-    print("Basic Division Application")
+    print("Basic Division Application") 
     
     # Get user input
     a = float(input("Enter the first number (numerator): "))
