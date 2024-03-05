@@ -18,7 +18,7 @@ class TestDivision(unittest.TestCase):
         self.assertEqual(divide_numbers(0, 10), 0)
 
     def test_divide_with_floats(self):
-        self.assertAlmostEqual(divide_numbers(9.0, 2), 4.5)
+        self.assertAlmostEqual(divide_numbers(9.0, 2), 4.5) 
 
 if __name__ == '__main__':
     unittest.main()
